@@ -11,7 +11,7 @@
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](_)
+:arrow_up:[к оглавлению](https://github.com/zumrus/sf_data_science/tree/main/project_0#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -31,23 +31,23 @@
 ### Краткая информация о данных
 ....
   
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/zumrus/sf_data_science/tree/main/project_0#Оглавление)
 
 
 ### Этапы работы над проектом  
 ....
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/zumrus/sf_data_science/tree/main/project_0#Оглавление)
 
 
 ### Результаты:  
 ....
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/zumrus/sf_data_science/tree/main/project_0#Оглавление)
 
 
 ### Выводы:  
 ....
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/zumrus/sf_data_science/tree/main/project_0#Оглавление)
 
